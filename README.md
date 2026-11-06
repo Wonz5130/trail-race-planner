@@ -3,7 +3,9 @@
 Trail race planning tool that estimates finish times and builds checkpoint-based pacing plans from GPX courses and runner performance data.
 
 **版本：** 0.1
+
 **日期：** 2026-11-06
+
 **状态：** 产品假设与 MVP 方案，待用户访谈和数据回测验证
 
 ---
